@@ -117,14 +117,15 @@ body {
 .div-2,
 .div-3 {
   width: 30%;
+  padding: 0 2rem;
   display: flex;
   justify-content: center;
-  align-items: center;
+  align-items: flex-start;
   color: #fff;
   line-height: 1.5em;
   font-size: 1.6em;
-  background-color: #f16059;
-  height: 300px;
+  background-color: black;
+  text-indent: 1rem;
 }
 
 /* ==========================================================================
